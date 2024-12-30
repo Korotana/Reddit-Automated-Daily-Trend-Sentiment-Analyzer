@@ -3,7 +3,7 @@ import time
 
 # Your access token and user ID (replace with your actual data)
 meta_access_token_filepath = "MetaAPIToken"
-user_id = "122103148604678035"
+user_id = "122103148604678"
 
 
 with open(meta_access_token_filepath, 'r') as f:
