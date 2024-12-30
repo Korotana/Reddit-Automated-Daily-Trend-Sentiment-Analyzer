@@ -2,8 +2,8 @@ import praw
 # Initialize the Reddit API client
 
 reddit = praw.Reddit(
-    client_id="pxwTvvfE-JJ6uPYYSbzmag",
-    client_secret='TXxhXnQ1o5G0-wZVxiem8c5-Jh_vEQ',  # Replace with your Client Secret
+    client_id="pxwTvvfE-",
+    client_secret='TXxhXnQ1o5G0--Jh_vEQ',  # Replace with your Client Secret
     user_agent='TrendAnalyzer'  # Set a user agent (e.g., 'myRedditApp')
     )
 
